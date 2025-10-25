@@ -47,7 +47,8 @@ projeto-cypress
 - Cadastro: (CT-Cadastro-01) - Cadastro com credenciais válidas
 - Login: (CT-Login-01) - Login com credenciais válidas
 - Lista de desejos: (CT-Wishlist-01) - Adicionar item à lista de desejos (wishlist)
-- Carrinho de compras: (CT-Carrinho-01 - Usuário adiciona produto ao carrinho
+- Carrinho de compras: (CT-Carrinho-01) - Usuário adiciona produto ao carrinho
+- Link da planilha: [Planilha de testes](https://docs.google.com/spreadsheets/d/1jXGOafMlIdJRtYqD0tzWBdyqYNpY5SXhEjzIwKcoCfY/edit?usp=sharing)
 
 ## 🚀Para rodar o projeto:
 - Pré requisitos: ter o Node.js, Git e Npm instalados na sua máquina
